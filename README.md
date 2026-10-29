@@ -58,7 +58,3 @@ Seeds are fixed, so the deterministic experiments reproduce exactly. Noise exper
 - Code: MIT (`LICENSE`).
 - `paper/ieeeconf.cls` is the IEEE conference template class, redistributed only so the paper builds; it is not covered by the MIT license.
 - The manuscript text and figures in `paper/` are © 2026 L. Alsheikh and subject to the publisher's policies; they are not covered by the MIT license.
-
-## AI assistance
-
-Portions of the derivations, simulation code, and manuscript text were prepared with the assistance of Claude (Anthropic), as also stated in the paper's acknowledgment.
