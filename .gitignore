@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+results/_quick/
+# LaTeX build products
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+.DS_Store

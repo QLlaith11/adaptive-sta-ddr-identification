@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "An Adaptive-Gain Super-Twisting Observer for Sensorless Identification of Differential-Drive Robots"
+type: software
+authors:
+  - family-names: Alsheikh
+    given-names: Laith
+    affiliation: "Department of Robotics and Intelligent Systems, Faculty of Engineering, Manara University, Latakia, Syria"
+    email: Laith.Alsheikh@manara.edu.sy
+license: MIT
